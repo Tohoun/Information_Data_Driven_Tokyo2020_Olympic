@@ -8,3 +8,6 @@ The data consist of files:
  - **althletes.csv**  dataset includes some personal information of all athletes
  - **coaches.csv** dataset includes some personal information of all coaches
  - **medals.csv** dataset includes general information on all athletes who won a medal
+
+ We complet the data with dataset of country download in [here](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/master/all/all.csv).
+ - **all.csv** dataset of country will used to help for visualisation of information by continent/region
